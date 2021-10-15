@@ -1,0 +1,2 @@
+This project looks at the stocks that are a part of the S&P500, S&P400, and S&P600 (collectively known as the S&P1500)
+  and displays the stocks that are currently close to their 52 week low.
